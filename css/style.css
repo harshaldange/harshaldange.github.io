@@ -77,7 +77,6 @@ section {
 /*##### ABOUT MYSELF SECTION #####*/
 .about-myself {
   padding: 50px 20px;
-  height: 100%;
   background-image: url(http://zyzixun.net/data/out/134/3998715-portfolio-wallpapers.jpg);
   background-attachment: fixed;
   background-position: center;
@@ -87,7 +86,6 @@ section {
 .about-myself .content {
   text-align: center;
   background :rgba(0,0,0,0.7);
-  height: 100%;
 }
 .about-myself .content h2 {
   color: #FFF;
@@ -131,7 +129,6 @@ section {
 }
 .experience .content {
   text-align: center;
-  height: 100%;
   background: rgba(0, 0, 0, 0.4);
 }
 .experience .content h1 {
@@ -207,7 +204,6 @@ section {
 /*##### SKILLS SECTION #####*/
 .skills {
   padding: 70px 20px;
-  height: 100%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
